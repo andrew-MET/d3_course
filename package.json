@@ -1,7 +1,7 @@
 {
-  "name": "oslo-max-temp",
+  "name": "oslo-temperature",
   "version": "1.0.0",
-  "description": "",
+  "description": "Max and min temperature for Oslo October 2019 - September 2020",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
